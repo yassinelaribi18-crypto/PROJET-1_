@@ -1,0 +1,59 @@
+body
+{
+ 
+    background-color: pink;
+    font-family: Arial;
+}
+
+
+.titre 
+{
+	background-color: red;
+    height: 200px;
+    width: 50%
+    margin: auto;
+    color: yellow;
+}
+
+.p1
+{   
+    height: 200px;
+
+}
+
+
+.titre
+{  
+	background-color: red;
+	height: 300px;
+	width: 400px;
+
+	color: yellow;
+
+float: left;
+
+
+
+}
+
+.b2
+{
+
+    background-color: ;
+    height: 400px;
+    width: 400px;
+ margin-bottom: 20px;
+     color: yellow;
+
+     float: right;
+}
+.b3
+{
+     background-color: red;
+     height: 400px;
+     width: 400px;
+
+     color: yellow;
+     clear: both;
+
+}
